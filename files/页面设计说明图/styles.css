@@ -17,8 +17,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:481px;
-  height:737px;
+  width:497px;
+  height:870px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -35,8 +35,8 @@
   position:absolute;
   left:35px;
   top:39px;
-  width:481px;
-  height:737px;
+  width:497px;
+  height:870px;
   font-family:'Arial Negreta', 'Arial Normal', 'Arial';
   font-weight:700;
   font-style:normal;
@@ -46,7 +46,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:481px;
+  width:497px;
   white-space:nowrap;
 }
 #u2 {
